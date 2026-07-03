@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="77e6c97f196da883-1" value="&amp;nbsp; &amp;nbsp;转录组重测序&amp;amp;微生物测序实验流程总览(从收样开始) " style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#6666FF;" parent="1" vertex="1">
+        <mxCell id="77e6c97f196da883-1" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp;转录组重测序&amp;amp;微生物测序实验流程总览(从收样开始) &lt;/h1&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#6666FF;" parent="1" vertex="1">
           <mxGeometry x="70" y="40" width="1120" height="750" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="1.样本录样" style="swimlane;html=1;startSize=20;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="77e6c97f196da883-1" vertex="1">

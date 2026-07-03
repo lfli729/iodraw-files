@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,7 +174,7 @@
         <mxCell id="hevrNcNCZlBVZpTAiPnV-2" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="hevrNcNCZlBVZpTAiPnV-1">
           <mxGeometry x="30" y="640" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hevrNcNCZlBVZpTAiPnV-17" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+        <mxCell id="hevrNcNCZlBVZpTAiPnV-17" value="" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="80" width="1190" height="710" as="geometry">
             <mxRectangle x="10" y="80" width="40" height="50" as="alternateBounds" />
           </mxGeometry>

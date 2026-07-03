@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="77e6c97f196da883-1" value="&amp;nbsp; &amp;nbsp;&amp;nbsp; " style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="77e6c97f196da883-1" value="&amp;nbsp; &amp;nbsp;转录组重测序&amp;amp;微生物测序实验流程总览(从收样开始) " style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="70" y="40" width="1120" height="750" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="1.样本录样" style="swimlane;html=1;startSize=20;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="77e6c97f196da883-1" vertex="1">
@@ -168,7 +168,7 @@
         <mxCell id="77e6c97f196da883-24" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-7" vertex="1">
           <mxGeometry x="30" y="640" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hevrNcNCZlBVZpTAiPnV-1" value="7.数据交付" style="swimlane;html=1;startSize=20;" vertex="1" parent="77e6c97f196da883-1">
+        <mxCell id="hevrNcNCZlBVZpTAiPnV-1" value="7.数据交付" style="swimlane;html=1;startSize=20;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="77e6c97f196da883-1">
           <mxGeometry x="960" y="20" width="160" height="730" as="geometry" />
         </mxCell>
         <mxCell id="hevrNcNCZlBVZpTAiPnV-2" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="hevrNcNCZlBVZpTAiPnV-1">
